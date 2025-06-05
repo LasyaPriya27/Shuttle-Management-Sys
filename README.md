@@ -138,17 +138,7 @@ Frontend will open at http://localhost:3000 🚀
 
 ---
 
-## 💡 Contributions
-Pull requests are welcome! Feel free to open issues for bug fixes or suggestions.
-
----
-
 ## 👨‍💻 Author
-Developed with ❤️ by [@prerantej](https://github.com/prerantej)
-
----
-
-## 📄 License
-This project is open-source and available under the MIT License.
+Developed with ❤️ by [@lasyapriya](https://github.com/LasyaPriya27)
 
 ---
