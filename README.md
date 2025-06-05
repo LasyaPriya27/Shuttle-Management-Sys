@@ -110,7 +110,7 @@ Frontend will open at http://localhost:3000 🚀
 
 | Email                    | Password | Role    |
 |--------------------------|----------|---------|
-| admin@example.com        | admin123 | Admin   |
+| moveinsync.com        | 1234 | Admin   |
 | student1@example.com     | stud123  | Student |
 
 ✏️ You can create new accounts via Signup page.
