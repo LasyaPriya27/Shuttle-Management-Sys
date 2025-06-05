@@ -2,7 +2,8 @@
 
 A full-stack Shuttle Management System built with MERN (MongoDB, Express, React, Node.js). It includes student and admin authentication, shuttle bookings, wallet management, and an admin dashboard.
 
-![Shuttle System UI](https://github.com/prerantej/Shuttle-app/assets/preview_ui.png)
+![Shuttle System UI](![image](https://github.com/user-attachments/assets/719a9c58-8a1e-4c03-b880-928269b4c06c)
+)
 
 ---
 
