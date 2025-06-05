@@ -32,19 +32,14 @@ A full-stack Shuttle Management System built with MERN (MongoDB, Express, React,
 
 ## 🖼️ UI Previews
 
-| Login Page | Book Shuttle | My Bookings |
-|------------|--------------------|--------------|
-| ![login](![image](https://github.com/user-attachments/assets/fa21fb62-fd51-43fc-8c62-030fb567f066)
-) | ![shuttles](![image](https://github.com/user-attachments/assets/b27f17d7-1c97-43dc-ab76-4cf5da3b1d4d)
-) | ![bookings](![image](https://github.com/user-attachments/assets/7216b4b2-f5d4-4392-b579-42ebdf0a02b1)
-) |
+Login Page | Book Shuttle | My Bookings |
+|------------|--------------|-------------|
+| ![login](https://github.com/user-attachments/assets/fa21fb62-fd51-43fc-8c62-030fb567f066) | ![shuttles](https://github.com/user-attachments/assets/b27f17d7-1c97-43dc-ab76-4cf5da3b1d4d) | ![bookings](https://github.com/user-attachments/assets/7216b4b2-f5d4-4392-b579-42ebdf0a02b1) |
 
+### 🧑‍💼 Admin Views
 | Admin Panel | Manage Shuttles | Recharge Wallet |
-|-------------|------------------|-----------------|
-| ![admin](![image](https://github.com/user-attachments/assets/bc5867f8-6394-4c1c-9217-2654c8b03d81)
-) | ![manage](![image](https://github.com/user-attachments/assets/97358b29-377d-4602-8be4-86c6f63752ec)
-) | ![recharge](![image](https://github.com/user-attachments/assets/64a31dee-5990-451e-b5ec-b6b270ebd824)
-) |
+|-------------|------------------|------------------|
+| ![admin](https://github.com/user-attachments/assets/bc5867f8-6394-4c1c-9217-2654c8b03d81) | ![manage](https://github.com/user-attachments/assets/97358b29-377d-4602-8be4-86c6f63752ec) | ![recharge](https://github.com/user-attachments/assets/64a31dee-5990-451e-b5ec-b6b270ebd824) |
 
 ---
 
