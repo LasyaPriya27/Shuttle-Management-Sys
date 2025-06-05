@@ -139,6 +139,6 @@ Frontend will open at http://localhost:3000 🚀
 ---
 
 ## 👨‍💻 Author
-Developed with ❤️ by [@lasyapriya](https://github.com/LasyaPriya27)
+Developed by [@lasyapriya](https://github.com/LasyaPriya27)
 
 ---
