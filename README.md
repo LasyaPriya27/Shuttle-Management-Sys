@@ -32,7 +32,7 @@ A full-stack Shuttle Management System built with MERN (MongoDB, Express, React,
 ---
 
 ## 🖼️ UI Previews
-
+### 👩‍🎓 Student Views
 Login Page | Book Shuttle | My Bookings |
 |------------|--------------|-------------|
 | ![login](https://github.com/user-attachments/assets/fa21fb62-fd51-43fc-8c62-030fb567f066) | ![shuttles](https://github.com/user-attachments/assets/b27f17d7-1c97-43dc-ab76-4cf5da3b1d4d) | ![bookings](https://github.com/user-attachments/assets/7216b4b2-f5d4-4392-b579-42ebdf0a02b1) |
