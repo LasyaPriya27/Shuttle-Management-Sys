@@ -1,4 +1,4 @@
-# 🚀 ShuttleInSync - Book. Board. Be There.
+# 🚀 ShuttleInSync - Book. Board. Boom.
 
 A full-stack Shuttle Management System built with MERN (MongoDB, Express, React, Node.js). It includes student and admin authentication, shuttle bookings, wallet management, and an admin dashboard.
 
