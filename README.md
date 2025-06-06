@@ -149,8 +149,6 @@ Frontend will open at http://localhost:3000 🚀
   ```
   REACT_APP_API_URL=https://<your-backend-on-render>.onrender.com/api
   ```
-  ![image](https://github.com/user-attachments/assets/a1d9ac68-160a-482d-8d2b-1efa110fc964)
-
 
 ---
 
