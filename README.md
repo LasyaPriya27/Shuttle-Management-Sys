@@ -11,7 +11,8 @@ A full-stack Shuttle Management System built with MERN (MongoDB, Express, React,
 
 📽️ [Watch Demo Video Here](https://drive.google.com/file/d/1chkLfB_2XthdswzYaCj7dMPgfgF4tZnd/view?usp=sharing)
 
-![image](https://github.com/user-attachments/assets/fd0d2f2d-440e-4c1a-ad12-0d40f7dc21d5)
+![image](https://github.com/user-attachments/assets/04067c22-fbb5-4a7f-9f2f-cb700aa0526d)
+
 
 
 ---
