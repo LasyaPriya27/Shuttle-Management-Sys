@@ -11,9 +11,6 @@ A full-stack Shuttle Management System built with MERN (MongoDB, Express, React,
 
 📽️ [Watch Demo Video Here](https://drive.google.com/file/d/1chkLfB_2XthdswzYaCj7dMPgfgF4tZnd/view?usp=sharing)
 
-![image](https://github.com/user-attachments/assets/04067c22-fbb5-4a7f-9f2f-cb700aa0526d)
-
-
 
 ---
 
@@ -152,6 +149,8 @@ Frontend will open at http://localhost:3000 🚀
   ```
   REACT_APP_API_URL=https://<your-backend-on-render>.onrender.com/api
   ```
+  ![image](https://github.com/user-attachments/assets/a1d9ac68-160a-482d-8d2b-1efa110fc964)
+
 
 ---
 
