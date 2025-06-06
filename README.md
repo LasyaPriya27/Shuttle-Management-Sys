@@ -44,7 +44,7 @@ Login Page | Book Shuttle | My Bookings |
 
 ---
 
-📊 System Flow Diagram
+##📊 System Flow Diagram
 
 The diagram below represents how the student and admin interact with the ShuttleInSync system.
 ![image](https://github.com/user-attachments/assets/9ef3268a-1113-4506-b1d3-eca77b734893)
