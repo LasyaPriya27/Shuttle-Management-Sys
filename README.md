@@ -70,6 +70,9 @@ The diagram below represents how the student and admin interact with the Shuttle
 shuttle/
 ├── shuttle-frontend/   # React app
 ├── shuttle-backend/    # Express + MongoDB API
+├── Documentation
+│    └── ShuttleInSync.pdf
+└── README.md
 ```
 
 ### 1️⃣ Install MongoDB (locally or via MongoDB Atlas)
